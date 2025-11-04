@@ -21,5 +21,6 @@ public class A1896 {
             else
                 System.out.println("NO");
         }
+        sc.close();
     }
 }
