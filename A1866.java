@@ -9,7 +9,7 @@ public class A1866 {
             int a = Math.abs(sc.nextInt());
             if (a < min) {
                 min = a;
-            }`
+            }
         }
         sc.close();
         System.out.println(min);
