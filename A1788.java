@@ -29,5 +29,6 @@ public class A1788 {
                 System.out.println(-1);
             }
         }
+        sc.close();
     }
 }
